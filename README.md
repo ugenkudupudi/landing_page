@@ -22,7 +22,7 @@ Please email to ugen [at] kudupudi [dot] com for further details.
 
 The MIT License (MIT)
 
-Copyright (c) 2014 Marcin Ślósarz
+Copyright (c) 2018 Ugendreshwar Kudupudi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
