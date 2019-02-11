@@ -2,6 +2,8 @@
 
 System Requirements to run 
 
+Linux Server (prefered) 
+
 Tomcat
 
 MySQL Server
