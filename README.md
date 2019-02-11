@@ -13,3 +13,7 @@ MySQL Server
 # Application Settings
 
 Please look into the .jsp page's to set web.xml files. Configuration samples for MySQL, Mail and others are present in .jsp pages.
+
+# Contact
+
+Please email to ugen [at] kudupudi [dot] com for further details.
